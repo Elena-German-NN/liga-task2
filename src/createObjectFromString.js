@@ -19,7 +19,7 @@ function createObjectFromString(str) {
   return resultObj;
 }
 
-/* второй вариант покороче
+/* второй вариант покороче получился
 
 function createObjectFromString(str) {
     const arr = str.split('.');
